@@ -7241,6 +7241,26 @@
         "name:zh": "麻古茶坊",
         "takeaway": "yes"
       }
+    },
+    {
+      "displayName": "Pastelería Artesanal Manolo",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Pastelería Artesanal Manolo",
+        "name": "Pastelería Artesanal Manolo",
+        "brand:wikidata": "Q131742395"
+      }
+    },
+    {
+      "displayName": "Manolo Bakes",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Manolo Bakes",
+        "name": "Manolo Bakes",
+        "brand:wikidata": "Q131742432"
+      }
     }
   ]
 }
